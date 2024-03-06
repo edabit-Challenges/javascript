@@ -1,5 +1,5 @@
 function binary(decimal) {
-	if (decimal === 0) return "0";
+  if (decimal === 0) return "0";
 
   let result = '';
   let value = 1;
